@@ -93,6 +93,9 @@ public class ModEntry : Mod
         if (!e.Button.IsActionButton()) return;
 
         var item = Game1.player.CurrentItem;
+
+        if (item == null) return;
+
         var location = Game1.currentLocation;
         var tile = Game1.currentCursorTile;
 
