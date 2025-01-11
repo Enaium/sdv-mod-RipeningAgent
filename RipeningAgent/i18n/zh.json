@@ -1,0 +1,6 @@
+{
+  "RipeningAgent.Object.BasicRipeningAgent.DisplayName": "基础催熟剂",
+  "RipeningAgent.Object.BasicRipeningAgent.Description": "可以让作物进入下一个阶段的基础催熟剂。",
+  "RipeningAgent.Object.DeluxeRipeningAgent.DisplayName": "豪华催熟剂",
+  "RipeningAgent.Object.DeluxeRipeningAgent.Description": "可以让作物成熟的豪华催熟剂。"
+}

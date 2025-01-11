@@ -1,0 +1,6 @@
+﻿{
+  "RipeningAgent.Object.BasicRipeningAgent.DisplayName": "Basic Ripening Agent",
+  "RipeningAgent.Object.BasicRipeningAgent.Description": "A basic ripening agent can take crops to the next stage.",
+  "RipeningAgent.Object.DeluxeRipeningAgent.DisplayName": "Deluxe Ripening Agent",
+  "RipeningAgent.Object.DeluxeRipeningAgent.Description": "A basic ripening agent can take crops to the mature stage."
+}
